@@ -5,8 +5,8 @@
 
 ## Download
 
-Link: <br>
-If you run into SmartScreen, just press `More info` -> `Run anyways`
+**Releases: https://github.com/realooffyy/Minecraft-ASCII-Text-Generator/releases** <br>
+If you get blocked by SmartScreen, press `More info` -> `Run anyways`
 
 ## How to use
 
