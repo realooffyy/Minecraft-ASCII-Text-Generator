@@ -14,9 +14,15 @@ If you get blocked by SmartScreen, press `More info` -> `Run anyways`
 
 > [!NOTE]
 > The text will only show correctly on **Minecraft 1.11-**, or on **Minecraft 1.8.9** with [Patcher](https://sk1er.club/mods/patcher)'s "1.11 Chat Length" feature enabled.<br>
+> Your chat box should also be the default size!
 
 ## Credits
 - Converted with [Auto PY to EXE](https://github.com/brentvollebregt/auto-py-to-exe)
+
+<br>
+some of this code is pretty old pls don't hurt me 😭<br>
+Message me on Discord (ooffyy) if you run into any issues<br>
+<br>
 
 ## Compiling with Auto PY to EXE
 i made this mainly for myself
