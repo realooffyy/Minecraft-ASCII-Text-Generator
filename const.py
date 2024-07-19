@@ -3,7 +3,7 @@ from utils import *
 from os import listdir
 from os.path import isfile, join, abspath
 
-VERSION = '1.0.0'
+VERSION = '1.0.1'
 
 MAX_LINE_LENGTH = 35
 MAX_LINES = 7
