@@ -7,7 +7,7 @@
   },
   {
    "optionDest": "filenames",
-   "value": "M:/Python/Minecraft Big Text Gen/main.py"
+   "value": "M:/Python/Minecraft ASCII Text Generator/main.py"
   },
   {
    "optionDest": "onefile",
@@ -16,6 +16,10 @@
   {
    "optionDest": "console",
    "value": false
+  },
+  {
+   "optionDest": "icon_file",
+   "value": "M:/Python/Minecraft ASCII Text Generator/icon.ico"
   },
   {
    "optionDest": "clean_build",
@@ -67,23 +71,23 @@
   },
   {
    "optionDest": "datas",
-   "value": "M:/Python/Minecraft Big Text Gen/const.py;."
+   "value": "M:/Python/Minecraft ASCII Text Generator/const.py;."
   },
   {
    "optionDest": "datas",
-   "value": "M:/Python/Minecraft Big Text Gen/format_input.py;."
+   "value": "M:/Python/Minecraft ASCII Text Generator/format_input.py;."
   },
   {
    "optionDest": "datas",
-   "value": "M:/Python/Minecraft Big Text Gen/utils.py;."
+   "value": "M:/Python/Minecraft ASCII Text Generator/utils.py;."
   },
   {
    "optionDest": "datas",
-   "value": "M:/Python/Minecraft Big Text Gen/window.py;."
+   "value": "M:/Python/Minecraft ASCII Text Generator/window.py;."
   },
   {
    "optionDest": "datas",
-   "value": "M:/Python/Minecraft Big Text Gen/characters;characters/"
+   "value": "M:/Python/Minecraft ASCII Text Generator/characters;characters/"
   }
  ],
  "nonPyinstallerOptions": {

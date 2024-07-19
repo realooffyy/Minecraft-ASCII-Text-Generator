@@ -11,8 +11,8 @@ MAX_LINES = 7
 TXT_SPACE = "゜"
 TXT_FILL = "█"
 
-GITHUB = "https://github.com/realooffyy"
-GITHUB_HOWTO = "https://github.com/realooffyy"
+GITHUB = "https://github.com/realooffyy/Minecraft-ASCII-Text-Generator"
+GITHUB_HOWTO = "https://github.com/realooffyy/Minecraft-ASCII-Text-Generator?tab=readme-ov-file#how-to-use"
 
 def resource_path(relative_path): # https://stackoverflow.com/questions/7674790/bundling-data-files-with-pyinstaller-onefile/13790741#13790741
     """ Get absolute path to resource, works for dev and for PyInstaller """

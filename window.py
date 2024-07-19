@@ -12,6 +12,7 @@ def init():
     root = tk.Tk()
     
     root.title("Minecraft ASCII Text Generator")
+    root.iconbitmap("./icon.ico")
     root.config(bg="black")
     root.attributes('-topmost', 1)
 

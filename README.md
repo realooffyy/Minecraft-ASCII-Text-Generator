@@ -19,7 +19,16 @@ If you run into SmartScreen, just press `More info` -> `Run anyways`
 ## Credits
 - Converted with [Auto PY to EXE](https://github.com/brentvollebregt/auto-py-to-exe)
 
-<br>
-
-some of this code is pretty old pls don't hurt me 😭<br>
-Do message me on Discord (ooffyy) if you run into any issues!
+## Compiling with Auto PY to EXE
+i made this mainly for myself
+- Script location is `main.py`
+- `One File` and `Window Based (hide this console)` should be selected.
+- Icon: `icon.ico`
+- Additional files:
+    - `const.py`
+    - `format_input.py`
+    - `icon.ico`
+    - `utils.py`
+    - `window.py`
+- Additional folders:
+    - `characters/`

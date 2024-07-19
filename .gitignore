@@ -1,2 +1,4 @@
 .vs
 __pycache__/*
+*.exe
+autopytoexeconfig.json

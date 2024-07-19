@@ -87,4 +87,5 @@ def ascii_formatter(user_input):
     r.update() # now it stays on the clipboard after the window is closed
     r.destroy()
 
+    # return the preview
     return final_result.replace(const.TXT_SPACE,'.')#.replace(const.TXT_FILL,'#')
