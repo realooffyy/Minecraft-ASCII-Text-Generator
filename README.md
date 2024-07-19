@@ -1,7 +1,6 @@
 ## Minecraft ASCII Text Generator
 
-<img src="./images/readme/image.png" alt="window" width="300"/>
-<img src="./images/readme/image2.png" alt="window" width="500"/>
+<img src="./images/readme/image.png" alt="window" width="300"/> <img src="./images/readme/image2.png" alt="window" width="500"/>
 
 ## Download
 
