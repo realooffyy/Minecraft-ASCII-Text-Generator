@@ -20,9 +20,9 @@ If you get blocked by SmartScreen, press `More info` -> `Run anyways`
 
 ## Compiling with Auto PY to EXE
 i made this mainly for myself
-- Script location is `main.py`
-- `One File` and `Window Based (hide this console)` should be selected.
-- Icon: `icon.ico`
+- Set script location to `main.py`
+- Select `One File` and `Window Based (hide this console)`
+- Set icon to `icon.ico`
 - Additional files:
     - `const.py`
     - `format_input.py`
